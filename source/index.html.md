@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: API Reference | Flash Mobile
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -25,11 +25,9 @@ meta:
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Flash Mobile Payment API is organized around REST. Our API has predictable resource-oriented URLs, accepts JSON-encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, and verbs.
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
-
-This example API documentation page was created with [Slate](https://github.com/slatedocs/slate). Feel free to edit it and use it as a base for your own API's documentation.
+This API documentation will helps Merchant's Developer to use our Disbursement, Payment, and Merchant Services in Flash Mobile.
 
 # Authentication
 
